@@ -7,6 +7,26 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
+	"picker_window_position_offset.4BA16301" = "428;154;320;550"
+	"picker_search_text.4BA16301" = ""
+	"last_search.4BA16301" = ""
+	"OpenInspectorPreview.4BA16301" = "0"
+	"currentGroup.4BA16301" = "scene"
+	"picker_window_position_offset.74AD8FDB" = "694;392;320;550"
+	"picker_search_text.74AD8FDB" = "defa "
+	"last_search.74AD8FDB" = "defa "
+	"OpenInspectorPreview.74AD8FDB" = "0"
+	"currentGroup.74AD8FDB" = "all"
+	"picker_window_position_offset.3172962C" = "1249;591;320;550"
+	"picker_search_text.3172962C" = "right "
+	"last_search.3172962C" = "right "
+	"OpenInspectorPreview.3172962C" = "0"
+	"currentGroup.3172962C" = "all"
+	"picker_window_position_offset.CF158A2E" = "-436;-42;320;550"
+	"picker_search_text.CF158A2E" = ""
+	"last_search.CF158A2E" = ""
+	"OpenInspectorPreview.CF158A2E" = "0"
+	"currentGroup.CF158A2E" = "all"
 }
 providers = {
 	adb = {
@@ -53,6 +73,9 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	""
+	"p: dir=\"Scenes\" "
+	"h: t=MeshFilter vertices>=1024"
 ]
 searchItemFavorites = [
 ]
@@ -63,5 +86,5 @@ expandedQueries = [
 ]
 queryBuilder = false
 ignoredProperties = "id;name;classname;imagecontentshash"
-helperWidgetCurrentArea = "all"
+helperWidgetCurrentArea = "p:"
 disabledIndexers = ""
