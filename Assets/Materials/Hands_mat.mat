@@ -44,11 +44,11 @@ Material:
     - _DisolveSmoothMin: 0.63
     - _EmmisionStrength: 2.7
     - _Float: 0.48
-    - _NoiseSmoothMax: 0.94
+    - _NoiseSmoothMax: 0.14
     - _NoiseSmoothMin: 0
     - _NoiseStepTreshold: 1
     - _noiseScale: 20
     m_Colors:
     - _Color: {r: 0.21021976, g: 0.9433962, b: 0.022249907, a: 0}
-    - _ColorDisolve: {r: 0.8773585, g: 0.012415428, b: 0.012415428, a: 0}
+    - _ColorDisolve: {r: 0.33962262, g: 0.33962262, b: 0.33962262, a: 0}
   m_BuildTextureStacks: []

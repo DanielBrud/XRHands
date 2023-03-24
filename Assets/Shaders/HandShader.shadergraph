@@ -560,9 +560,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -480.0,
-            "y": -19.0,
-            "width": 105.0,
+            "x": -368.00006103515627,
+            "y": -129.00001525878907,
+            "width": 105.00003051757813,
             "height": 34.0
         }
     },
@@ -801,7 +801,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "0d910ac052c04c13a1d04c6a9790a7a4",
     "m_Id": 0,
-    "m_DisplayName": "Alpha",
+    "m_DisplayName": "AlphaClipTreshold",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -881,9 +881,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 176.0,
-            "y": 572.0,
-            "width": 105.0,
+            "x": 175.0000762939453,
+            "y": 641.0,
+            "width": 104.99992370605469,
             "height": 34.0
         }
     },
@@ -986,10 +986,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 83.99998474121094,
-            "y": 345.9999694824219,
-            "width": 208.0000762939453,
-            "height": 302.0000915527344
+            "x": 72.00005340576172,
+            "y": 272.0,
+            "width": 207.99993896484376,
+            "height": 302.00006103515627
         }
     },
     "m_Slots": [
@@ -1448,10 +1448,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -105.99996948242188,
-            "y": 369.0,
-            "width": 126.00003051757813,
-            "height": 118.0
+            "x": -106.00004577636719,
+            "y": 307.0,
+            "width": 126.0000228881836,
+            "height": 118.00003051757813
         }
     },
     "m_Slots": [
@@ -1530,10 +1530,10 @@
     "m_Guid": {
         "m_GuidSerialized": "58ec74ae-c34c-4b23-98a5-ce4c82a626d3"
     },
-    "m_Name": "Alpha",
+    "m_Name": "AlphaClipTreshold",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Alpha",
-    "m_DefaultReferenceName": "_Alpha",
+    "m_RefNameGeneratedByDisplayName": "AlphaClipTreshold",
+    "m_DefaultReferenceName": "_AlphaClipTreshold",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -2416,9 +2416,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 20.0,
-            "y": -54.0,
-            "width": 208.0,
+            "x": 35.99994659423828,
+            "y": -112.00000762939453,
+            "width": 208.00003051757813,
             "height": 361.0
         }
     },
@@ -2947,8 +2947,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -598.0,
-            "y": 540.0,
+            "x": -600.0,
+            "y": 541.0,
             "width": 208.0,
             "height": 326.0
         }
@@ -2991,9 +2991,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -338.0,
-            "y": 68.0,
-            "width": 143.0,
+            "x": -361.0000305175781,
+            "y": -52.9999885559082,
+            "width": 143.00001525878907,
             "height": 34.0
         }
     },
@@ -3195,10 +3195,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -598.0000610351563,
-            "y": 475.0000305175781,
-            "width": 170.00003051757813,
-            "height": 33.999969482421878
+            "x": -320.0000305175781,
+            "y": 391.0,
+            "width": 170.0,
+            "height": 34.000030517578128
         }
     },
     "m_Slots": [
