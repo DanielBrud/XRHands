@@ -6,6 +6,9 @@ In this is project i'm working on some visual efects with XRHands package integr
 This effect shows materialize object in Unity (URP)
 [Youtube](https://www.youtube.com/watch?v=MVDNCIM96BE&ab_channel=DanielBrud)
 
-![alt text](https://github.com/DanielBrud/XRHands/blob/mainLocal/Images/Unity%20VFX%20Sword%20Materiazlie.png)
+
+![Unity VFX Sword Materiazlie](https://user-images.githubusercontent.com/32804264/227800152-e35fbb16-b242-4630-928e-5d7e11fb2b0c.png)
+
+
 
 
