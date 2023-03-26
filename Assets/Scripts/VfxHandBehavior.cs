@@ -17,7 +17,7 @@ public class VfxHandBehavior : MonoBehaviour
 
     private readonly int leftHandSkinnedMeshVFXID = Shader.PropertyToID("LeftHand");
     private readonly int rightHandSkinnedMeshVFXID = Shader.PropertyToID("RightHand");
-    private readonly int startSkinnedMeshVFXID = Shader.PropertyToID("StartFollowHands");
+    private readonly int startSkinnedMeshVFXID = Shader.PropertyToID("StartMaterialize");
 
     private VFXEventAttribute eventAttribute;
         
@@ -25,7 +25,10 @@ public class VfxHandBehavior : MonoBehaviour
 
     private void OnEnable()
     {
+        // For Debugging
         Invoke("GetHandsSkinnedMeshRender", 2f);
+
+
         eventAttribute = handsVFX.CreateVFXEventAttribute();
     }
 
@@ -37,15 +40,14 @@ public class VfxHandBehavior : MonoBehaviour
     
     void GetHandsSkinnedMeshRender()
     {
-        Debug.Log(handVisualizer.transform.childCount.ToString());
+        
         if (handVisualizer.transform.childCount > 0)
         {
             handsSkinnedMeshList = handVisualizer.GetComponentsInChildren<SkinnedMeshRenderer>();
 
             leftHandSkinndMesh = handsSkinnedMeshList[0];
             rightHandSkinndMesh = handsSkinnedMeshList[1];
-            Debug.Log(leftHandSkinndMesh.sharedMesh.ToString());
-            Debug.Log(rightHandSkinndMesh.sharedMesh.ToString());
+            
             handsVFX.SetSkinnedMeshRenderer(leftHandSkinnedMeshVFXID, leftHandSkinndMesh);
             handsVFX.SetSkinnedMeshRenderer(rightHandSkinnedMeshVFXID, rightHandSkinndMesh);
             handsVFX.SendEvent(startSkinnedMeshVFXID, eventAttribute);
