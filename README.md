@@ -1,7 +1,10 @@
-# XRHands VFX
+# XRHands VFX in Unity
+
+In this is project i'm working on some visual efects with XRHands package integration.
 
 ## Object Materialize
-In this effect i'm working on materialize object effect in Unity VFXGraph (URP)
+This effect shows materialize object in Unity (URP)
+
 
 ![alt text](https://github.com/DanielBrud/XRHands/blob/mainLocal/Images/Unity%20VFX%20Sword%20Materiazlie.png)
 
