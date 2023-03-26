@@ -11,4 +11,5 @@ This effect shows materialize object in Unity (URP)
 
 
 
-
+# License
+[MIT](https://github.com/DanielBrud/XRHands/blob/mainLocal/LICENSE)
