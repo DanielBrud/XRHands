@@ -863,37 +863,37 @@ VisualEffect:
       m_Array: []
     m_Vector3f:
       m_Array:
-      - m_Value: {x: 56.718697, y: -0, z: -0}
+      - m_Value: {x: 5.503172, y: -0, z: -0}
         m_Name: DissolveMeshTransform_angles
         m_Overridden: 1
-      - m_Value: {x: 0.139, y: 1.4987, z: 0.298}
+      - m_Value: {x: 0.333, y: 1.214, z: 0.846}
         m_Name: DissolveMeshTransform_position
         m_Overridden: 1
       - m_Value: {x: 1, y: 1, z: 1}
         m_Name: DissolveMeshTransform_scale
         m_Overridden: 1
-      - m_Value: {x: 56.718697, y: -0, z: -0}
+      - m_Value: {x: 5.503172, y: -0, z: -0}
         m_Name: SDFTransformMesh_angles
         m_Overridden: 1
-      - m_Value: {x: 0.139, y: 1.6841227, z: 0.58047986}
+      - m_Value: {x: 0.333, y: 1.5503426, z: 0.8784049}
         m_Name: SDFTransformMesh_position
         m_Overridden: 1
       - m_Value: {x: 1, y: 1, z: 1}
         m_Name: SDFTransformMesh_scale
         m_Overridden: 1
-      - m_Value: {x: 56.718697, y: -0, z: -0}
+      - m_Value: {x: 5.503172, y: -0, z: -0}
         m_Name: StartPointDisolve_angles
         m_Overridden: 1
-      - m_Value: {x: 0.139, y: 1.3900476, z: 0.13247468}
+      - m_Value: {x: 0.333, y: 1.0169126, z: 0.82701164}
         m_Name: StartPointDisolve_position
         m_Overridden: 1
       - m_Value: {x: 1, y: 1, z: 1}
         m_Name: StartPointDisolve_scale
         m_Overridden: 1
-      - m_Value: {x: 56.718697, y: -0, z: -0}
+      - m_Value: {x: 5.503172, y: -0, z: -0}
         m_Name: SDFTransformMeshAfterSpawn_angles
         m_Overridden: 1
-      - m_Value: {x: -0.001000002, y: 0.9249605, z: -1.1172866}
+      - m_Value: {x: 0.193, y: -0.248613, z: 0.40670943}
         m_Name: SDFTransformMeshAfterSpawn_position
         m_Overridden: 1
       - m_Value: {x: 1, y: 1, z: 1}
@@ -1432,27 +1432,27 @@ PrefabInstance:
     - target: {fileID: 4334314812708720166, guid: edccbf15fadd9704cb7a2020a492b120,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.139
+      value: 0.333
       objectReference: {fileID: 0}
     - target: {fileID: 4334314812708720166, guid: edccbf15fadd9704cb7a2020a492b120,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.4987
+      value: 1.214
       objectReference: {fileID: 0}
     - target: {fileID: 4334314812708720166, guid: edccbf15fadd9704cb7a2020a492b120,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.298
+      value: 0.846
       objectReference: {fileID: 0}
     - target: {fileID: 4334314812708720166, guid: edccbf15fadd9704cb7a2020a492b120,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.8799858
+      value: 0.99884707
       objectReference: {fileID: 0}
     - target: {fileID: 4334314812708720166, guid: edccbf15fadd9704cb7a2020a492b120,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.475
+      value: 0.048005775
       objectReference: {fileID: 0}
     - target: {fileID: 4334314812708720166, guid: edccbf15fadd9704cb7a2020a492b120,
         type: 3}
@@ -1467,7 +1467,7 @@ PrefabInstance:
     - target: {fileID: 4334314812708720166, guid: edccbf15fadd9704cb7a2020a492b120,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 56.719
+      value: 5.503
       objectReference: {fileID: 0}
     - target: {fileID: 4334314812708720166, guid: edccbf15fadd9704cb7a2020a492b120,
         type: 3}
